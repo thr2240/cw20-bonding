@@ -1,0 +1,1 @@
+70d55b05108df16ea8301607721553cff8f70e849e7589377bd4e6fa351050cb  ./target/wasm32-unknown-unknown/release/cw_tpl_osmosis.wasm

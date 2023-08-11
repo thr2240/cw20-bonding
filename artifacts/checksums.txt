@@ -1,0 +1,1 @@
+249df4d5afec410f92fa18ff8f8c4edfd2db7338999d43e11dd6d126c1e74f45  cw_tpl_osmosis.wasm
